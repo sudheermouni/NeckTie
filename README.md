@@ -91,6 +91,13 @@ It will load sample data to the models
 python manage.py loaddata necktieapp/fixtures/*.json
 ```
 
+Custom managemant command
+------------------------
+ Creating bul records for doctors model
+```
+python manage.py bulk_create number_of_records
+ex: python manage.py bulk_create 3
+```
 API Documentation
 -----------------
 
