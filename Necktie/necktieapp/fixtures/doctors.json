@@ -1,0 +1,73 @@
+[
+  {
+    "model": "necktieapp.doctors",
+    "pk": 1,
+    "fields": {
+      "d_surname": "sekhar",
+      "d_firstname": "pallala",
+      "d_username": "sekarp",
+      "d_phone": "9866766604",
+      "d_address": "ramalingapuram",
+      "d_specialization": "CD",
+      "d_pincode": 524101
+
+    }
+  },
+  {
+    "model": "necktieapp.doctors",
+    "pk": 2,
+    "fields": {
+      "d_surname": "vinod",
+      "d_firstname": "b",
+      "d_username": "vinodb",
+      "d_phone": "9866766604",
+      "d_address": "ramalingapuram",
+      "d_specialization": "NT",
+      "d_pincode": 524101
+
+    }
+  },
+  {
+    "model": "necktieapp.doctors",
+    "pk": 3,
+    "fields": {
+      "d_surname": "anil",
+      "d_firstname": "b",
+      "d_username": "anilb",
+      "d_phone": "8099101096",
+      "d_address": "ramalingapuram",
+      "d_specialization": "EC",
+      "d_pincode": 524101
+
+    }
+  },
+
+  {
+    "model": "necktieapp.doctors",
+    "pk": 4,
+    "fields": {
+      "d_surname": "venky",
+      "d_firstname": "N",
+      "d_username": "venkyn",
+      "d_phone": "8099330108",
+      "d_address": "ramalingapuram",
+      "d_specialization": "NT",
+      "d_pincode": 524101
+
+    }
+  },
+  {
+    "model": "necktieapp.doctors",
+    "pk": 5,
+    "fields": {
+      "d_surname": "sudheer",
+      "d_firstname": "mandi",
+      "d_username": "smreddy",
+      "d_phone": "9177935906",
+      "d_address": "ramalingapuram",
+      "d_specialization": "CD",
+      "d_pincode": 524101
+
+    }
+  }
+]

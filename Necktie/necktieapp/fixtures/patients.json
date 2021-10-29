@@ -1,0 +1,43 @@
+[
+  {
+    "model": "necktieapp.patient",
+    "pk": 1,
+    "fields": {
+      "p_surname": "Krishna",
+      "p_fullname": "kakarla",
+      "p_username": "kk",
+      "p_phone": "9866766604",
+      "p_country": "Banglore",
+      "p_state": "KA"
+
+    }
+  },
+  {
+    "model": "necktieapp.patient",
+    "pk": 2,
+    "fields": {
+      "p_surname": "Pramod",
+      "p_fullname": "Racharla",
+      "p_username": "PramodR",
+      "p_phone": "9866766604",
+      "p_country": "Banglore",
+      "p_state": "KA"
+
+
+    }
+  },
+  {
+    "model": "necktieapp.patient",
+    "pk": 3,
+    "fields": {
+      "p_surname": "Priyanka",
+      "p_fullname": "P",
+      "p_username": "PramPriyanka",
+      "p_phone": "9866766604",
+      "p_country": "Banglore",
+      "p_state": "KA"
+
+
+    }
+  }
+]

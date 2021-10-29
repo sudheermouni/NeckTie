@@ -1,0 +1,51 @@
+[
+  { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 1,
+      "patient": 1
+    }
+  },
+
+  { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 1,
+      "patient": 2
+    }
+  },
+  { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 1,
+      "patient": 3
+    }
+  },
+    { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 2,
+      "patient": 1
+    }
+  },
+    { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 2,
+      "patient": 3
+    }
+  },
+   { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 3,
+      "patient": 3
+    }
+  },
+   { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 4,
+      "patient": 1
+    }
+  },
+    { "model": "necktieapp.patentdoctortb",
+    "fields": {
+      "doctor": 5,
+      "patient": 1
+    }
+  }
+  ]
